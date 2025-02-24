@@ -38,6 +38,26 @@ div {
     background-color: white !important;
     box-shadow: 8px 4px 8px grey; 
 }
+.gallery1 {
+    width: 80%;
+    background-color: white !important;
+    box-shadow: 8px 4px 8px grey; 
+    float:right;height:300px;width:auto;border:5px;border-image:round;border-radius:2cm;margin-bottom:20px;margin-right:10px;
+}
+.gallery2 {
+        width: 80%;
+        background-color: white !important;
+        box-shadow: 8px 4px 8px grey; 
+        float:left;height:400px;width:auto;margin-left:50px;margin-right:50px
+
+}
+.gallery3 {
+    width: 80%;
+    background-color: white !important;
+    box-shadow: 8px 4px 8px grey; 
+    float:left;height:400px;width:auto;margin-left:50px;margin-right:50px;margin-top:50px;
+
+}
 a:link {
     background-color: black;
     color: white;
